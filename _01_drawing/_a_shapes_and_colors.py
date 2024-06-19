@@ -39,7 +39,8 @@ bob.circle(50,steps=30)
 bob.end_fill()
 # Add color to your shape by adding .begin_fill() before drawing the circle
 # and .end_fill() below
-bob.forward(30)
+bob.forward(100)
+
 bob.begin_fill()
 for i in range(4):
     bob.left(90)

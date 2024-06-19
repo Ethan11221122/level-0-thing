@@ -26,7 +26,6 @@ if __name__ == '__main__':
     for i in range (99999) :
         bob.color(get_random_color())
         # Set the turtle color to a random color
-
         # Move the turtle (5*i) pixels. 'i' is the loop variable
         bob.forward(5*i)
         # Turn the turtle (360/7) degrees to the right
