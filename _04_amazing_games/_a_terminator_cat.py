@@ -51,6 +51,20 @@ def key_pressed():
 
 if __name__ == '__main__':
     window = turtle.Screen()
+    #sign out next time
+    #sign out next time
+    #sign out next time
+    #sign out next time
+    #sign out next time
+    #sign out next time
+    #sign out next time#sign out next time
+    #sign out next time#sign out next time#sign out next time#sign out next time#sign out next time#sign out next time#sign out next time
+    #sign out next time
+    #sign out next time
+    #sign out next time
+    #sign out next time
+    #sign out next time
+    #sign out next time#sign out next time
     
     # 1. Find an image of a cat with BIG eyes OR use one of the 2 images provided
     #    a. Find an image using google to search. The image must be a .gif file
